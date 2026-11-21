@@ -1,0 +1,6 @@
+domain:pmang.cloud
+domain:neowizplay.com
+domain:browndust2.com
+domain:neonapi.com
+domain:neon-file.akamaized.net
+domain:xsolla.com
