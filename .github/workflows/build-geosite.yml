@@ -1,0 +1,57 @@
+name: Build geosite.dat from upstream URL + custom groups
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * *"
+  push:
+    paths:
+      - "custom/**"
+      - ".github/workflows/build-geosite.yml"
+
+env:
+  UPSTREAM_GEOSITE_URL: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/release/geosite.dat
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version: "1.22"
+
+      - name: Install v2dat
+        run: go install github.com/v2fly/v2dat@latest
+
+      - name: Download upstream geosite.dat
+        run: curl -fL "$UPSTREAM_GEOSITE_URL" -o upstream-geosite.dat
+
+      - name: Clone domain-list-community (build toolchain only)
+        run: git clone --depth=1 https://github.com/v2fly/domain-list-community.git dlc
+
+      - name: Unpack upstream into data dir
+        run: |
+          mkdir -p dlc/data
+          find dlc/data -mindepth 1 -maxdepth 1 -exec rm -rf {} +
+          v2dat unpack geosite -o dlc/data upstream-geosite.dat
+
+      - name: Inject custom groups
+        run: |
+          shopt -s nullglob
+          for f in custom/*.txt; do
+            name="$(basename "$f" .txt)"
+            cp "$f" "dlc/data/$name"
+          done
+
+      - name: Build geosite.dat
+        working-directory: dlc
+        run: |
+          go run ./
+          mv dlc.dat ../geosite.dat
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: geosite-dat
+          path: geosite.dat
