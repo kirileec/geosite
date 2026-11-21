@@ -1,0 +1,2 @@
+# 自定义分组：文件名去掉 .txt 就是 dat 里的 category。
+# 每行一条规则，支持 domain: / full: / keyword: / regexp: 四种格式。
