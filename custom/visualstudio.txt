@@ -1,0 +1,10 @@
+domain:nuget.org
+domain:visualstudio.com
+domain:gallerycdn.vsassets.io
+domain:microsoftonline.com
+domain:live.com
+domain:windows.net
+domain:go.microsoft.com
+domain:aka.ms
+domain:tts.speech.microsoft.com
+domain:microsofttranslator.com
