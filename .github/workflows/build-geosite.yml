@@ -20,29 +20,29 @@ jobs:
 
       - uses: actions/setup-go@v5
         with:
-          go-version: "1.22"
-
-      - name: Install v2dat
-        run: go install github.com/v2fly/v2dat@latest
+          go-version: "1.27"
 
       - name: Download upstream geosite.dat
         run: curl -fL "$UPSTREAM_GEOSITE_URL" -o upstream-geosite.dat
 
-      - name: Clone domain-list-community (build toolchain only)
-        run: git clone --depth=1 https://github.com/v2fly/domain-list-community.git dlc
+      - name: Checkout domain-list-community (build toolchain only)
+        uses: actions/checkout@v4
+        with:
+          repository: v2fly/domain-list-community
+          path: dlc
 
-      - name: Unpack upstream into data dir
+      - name: Unpack upstream dat into plain lists
+        working-directory: unpack
         run: |
-          mkdir -p dlc/data
-          find dlc/data -mindepth 1 -maxdepth 1 -exec rm -rf {} +
-          v2dat unpack geosite -o dlc/data upstream-geosite.dat
+          rm -rf ../dlc/data
+          mkdir -p ../dlc/data
+          go run . -inputdata=../upstream-geosite.dat -outputdir=../dlc/data
 
       - name: Inject custom groups
         run: |
           shopt -s nullglob
           for f in custom/*.txt; do
-            name="$(basename "$f" .txt)"
-            cp "$f" "dlc/data/$name"
+            cp "$f" "dlc/data/$(basename "$f" .txt)"
           done
 
       - name: Build geosite.dat
