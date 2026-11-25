@@ -6012,7 +6012,7 @@ o.pki.goog
 cn-!valid.origin-apple.com.akadns.net
 cnwww.entrust.cn
 cnwww.microsoft.com
-è!
+”"
 CATEGORY-CDN-!CNaccdn.com.cn
 cnak1.net
 aka-ai.com
@@ -6067,9 +6067,9 @@ cftest6.cn
 cncloudflarestatus.comcloudflarestorage.com#cloudflarestoragegw.com
 cncloudflarestream.comcloudflaresupport.comcloudflaretest.comcloudflarewarp.comcloudflareworkers.comdelvenetworks.comedgekey.netedgekey88.net
 cnedgesuite.netencryptedsni.comesm.run
-esm.shevery1dns.netfastly-edge.comfastly-terrarium.com
+esm.shevery1dns.netfastly-edge.comfastly-insights.comfastly-terrarium.com
 fastly.com	fastly.io
-fastly.netfastlylabs.comfastlylb.netfoundationdns.comfoundationdns.netfoundationdns.orggcdn.co	gcore.com	gcore.proiamakamai.comiamakamai.netimagedelivery.net	imgix.com	imgix.netisbgpsafeyet.comjanrain.biz
+fastly.netfastlydns.netfastlylabs.comfastlylb.netfoundationdns.comfoundationdns.netfoundationdns.orggcdn.co	gcore.com	gcore.proiamakamai.comiamakamai.netimagedelivery.net	imgix.com	imgix.netisbgpsafeyet.comjanrain.biz
 cnjanrainservices.com
 cnjsdelivr.comjsdelivr.netlimelight.com	lldns.netllnw-trials.comllnw.comllnw.net	llnwd.net	llnwi.netone.one.onepacloudflare.compagecdn.com
 pagecdn.io	pages.devquantil.com
@@ -8002,7 +8002,7 @@ pgafan.netpoint2this.com
 pointto.us privatizehealthinsurance.netquicksytes.comread-books.orgredirectme.netsecuritytactics.comservebeer.comserveblog.netservecounterstrike.comserveexchange.comserveftp.comservegame.comservehalflife.comservehttp.comservehumour.comserveirc.comserveminecraft.netservemp3.comservep2p.comservepics.comservequake.comservesarcasm.comsslip.iostufftoread.com	sytes.nettheworkpc.com
 traefik.me
 ufcfan.orgunusualperson.comviewdns.net	webhop.mewebredirect.orgworkisboring.com	zapto.org
-Á{
+þ{
 CATEGORY-DEV
 01.orgaccountkit.com
 acpica.comadaptivecards.ioadventofcode.comalmalinux.orgalpinelinux.orgamp.devampproject.comampproject.netampproject.organaconda.cloudanaconda.comanaconda.org7analytics.cloud.unity3d.com
@@ -8013,7 +8013,8 @@ apisof.netappcenter.msapple-cloudkit.comapple-mapkit.com
 azurecr.io
 badgen.netbintray.combitvise.com
 blazor.netblogoverflow.combmonkeys.netboldgrid.combootstrapcdn.combotframework.combotorch.orgbraventures.combraveux.combrew.sh
-buck.buildbuckbuild.combugsnag.combuiltwithnix.orgbusybox.net"cafe.github.com
+buck.buildbuckbuild.combugsnag.combuiltwithnix.orgbusybox.net
+cachix.org"cafe.github.com
 	telemetrycalendarserver.orgcanonical.comcarekit.orgcdn.jetbrains.com
 cn"cdp.cloud.unity3d.com
 ads
@@ -8023,7 +8024,7 @@ cnpmjs.orgcodeberg.orgcodeberg.pagecodebuff.comcodeforal
 compass.iscomponentkit.orgcompose-spec.ioconda.io)config.uca.cloud.unity3d.com
 ads	consul.iocpan.orgcrashlytics.com	crates.iocrocoblock.comcups.orgcve.org
 cygwin.com
-cython.orgdart.devdartlang.orgdartpad.devdatalore.io
+cython.orgdart.devdartlang.orgdartpad.devdatalore.iodebian.map.fastlydns.net
 debian.orgdeno.com	deno.landdependabot.com
 dev.todeveloper.apple.com developerservices2.apple.comdevimages-cdn.apple.comdevopsassessment.netdevstreaming-cdn.apple.comdiscourse-cdn.comdiscourse.groupdiscourse.org
 docker.com	docker.iodockerstatic.comdocs.rsdot.net
@@ -8094,7 +8095,7 @@ termux.orgterraform.iotex-talk.netthegithubshop.comthesf
 ubuntu.com
 ubuntu.netubuntuforums.org	unity.comunity3d.com!unityads.unity3d.com
 ads!universalscalablefirmware.org	unpkg.comuwpcommunitytoolkit.com
-v8.devv8project.orgvagrantcloud.comvagrantup.comvaultproject.iovfsforgit.comvfsforgit.orgvideojs.comvideolan.orgvideopress.comvim.orgvisualstudio-staging.comvisualstudio.covisualstudio.co.ukvisualstudio.comvisualstudio.euvisualstudio.netvsassets.iovscode-cdn.netvscode-unpkg.netvscode-webview.net
+v8.devv8project.orgvagrantcloud.comvagrantup.comvaultproject.iovfsforgit.comvfsforgit.orgvideojs.comvideolan.orgvideopress.comvim.orgvisualstudio-staging.comvisualstudio.covisualstudio.co.ukvisualstudio.comvisualstudio.euvisualstudio.net	vivox.comvsassets.iovscode-cdn.netvscode-unpkg.netvscode-webview.net
 vscode.devvscodeedu.appvscodeedu.com	w.orgwapm.io	wasmer.iowebflow-ext.comwebflow.com
 webflow.io
 webkit.orgwebkitgtk.orgweblate.orgwebobjects.comwebsite-files.comwireshark.orgwix-code.comwix.comwixanswers.comwixapps.net	wixmp.comwixsite.comwixstatic.comwordcamp.orgwordpress.comwordpress.networdpress.orgwordpress.tvwp-themes.com
@@ -34763,8 +34764,8 @@ dcard.linkdcard.tw
 100.me
 ddcorp.netddfresh.net
 ddimg.mobiddmaicai.net	ddmc.mobidduser.mobi	ddxq.mobiimaicai.mobi
-(
-DEBIAN
+F
+DEBIANdebian.map.fastlydns.net
 debian.org
 dotdeb.org
 "
@@ -35284,10 +35285,10 @@ FANFICTIONfanfiction.net
 FARONICSclickedu.co.ukdeepfreeze.co.ukdeepfreeze.comdeepfreeze.com.brdeepfreeze.eudeepfreeze.netdeepfreeze.techfaronics.cafaronics.co.ukfaronics.comfaronics.com.aufaronics.com.sgfaronics.eufaronics.techfaronicslabs.comfaronicswise.co.ukfaronicswise.comfaronics.kayako.com
 /
 FASTLANEfastlane.cifastlane.tools
-Œ
-FASTLYfastly-edge.comfastly-terrarium.com
+¸
+FASTLYfastly-edge.comfastly-insights.comfastly-terrarium.com
 fastly.com	fastly.io
-fastly.netfastlylabs.comfastlylb.net
+fastly.netfastlydns.netfastlylabs.comfastlylb.net
 
 	FASTSTONEfaststone.org
 )
@@ -35505,7 +35506,7 @@ genotek.am
 genotek.es
 genotek.eugenotek.health
 genotek.ru
-«ø
+Žù
 GEOLOCATION-!CN000webhost.com
 01.org02weqj32.com
 04647.club0cgdklr5sfwj.com0emm.com0plkijj.vip
@@ -36026,7 +36027,8 @@ byd3c3.combydrebeats.combygpp1207.worldbyjav.me	byjhd.com
 bytick.comc-est-simple.comc-ij.comc-msedge.net
 c-span.orgc-spanvideo.orgc.go-mpulse.netc.mi.com	c0930.comc2cx.com
 c3pool.comc4rex.coc4slive.comcabconnect.org
-cableav.tvcableav.xyzcablegatesearch.netcabletv.com.hkcabletvdirectv.comcachefly.comcachefly.net	cacnw.comcactusvpn.comcad-mep.comcadcamsystemsinc.comcadduct.com
+cableav.tvcableav.xyzcablegatesearch.netcabletv.com.hkcabletvdirectv.comcachefly.comcachefly.net
+cachix.org	cacnw.comcactusvpn.comcad-mep.comcadcamsystemsinc.comcadduct.com
 cadmep.comcadoverlay.com
 cadren.comcafr.ca	cai21.xyz	caice.comcaijinglengyan.com	caime.xyz
 cairn.infocairnspost.com.aucalebelston.comcalendarserver.orgcalendarz.com	calgon.at	calgon.be	calgon.chcalgon.co.uk
@@ -36338,9 +36340,9 @@ fanspot.jp	fansta.mefansteek.comfanswong.comfantasiasguat
 fap666.comfapality.com
 fapcat.comfapdude.comfapello.comfaperoni.comfapforfun.netfaphdporn.comfaphouse.comfapmovz.comfapnado.comfapomania.comfapopedia.netfappcelebs.comfappeningbook.comfappeningthots.comfappenist.comfapphub.com
 fapporn.mefaproulette.cofaproulette.onlinefapsafari.comfapster.xxxfapteencam.comfaptitans.com
-fapvid.comfareastpornhub.comfarfetch-apps.comfarfetch-contents.comfarfetch.comfarfetch.netfaronics.cafaronics.co.ukfaronics.comfaronics.com.aufaronics.com.sgfaronics.eufaronics.techfaronicslabs.comfaronicswise.co.ukfaronicswise.comfasebokk.comfasebook.comfaseboox.comfashionbykakao.comfashionnike.comfast.comfastestvpn.comfastindianporn.comfastlane.cifastlane.toolsfastly-edge.comfastly-terrarium.com
+fapvid.comfareastpornhub.comfarfetch-apps.comfarfetch-contents.comfarfetch.comfarfetch.netfaronics.cafaronics.co.ukfaronics.comfaronics.com.aufaronics.com.sgfaronics.eufaronics.techfaronicslabs.comfaronicswise.co.ukfaronicswise.comfasebokk.comfasebook.comfaseboox.comfashionbykakao.comfashionnike.comfast.comfastestvpn.comfastindianporn.comfastlane.cifastlane.toolsfastly-edge.comfastly-insights.comfastly-terrarium.com
 fastly.com	fastly.io
-fastly.netfastlylabs.comfastlylb.net
+fastly.netfastlydns.netfastlylabs.comfastlylb.net
 fastpic.rufastssh.comfaststone.orgfasttext.ccfasttrackreadysupport.com
 fatbtc.comfatstube.comfatwallet.comfavebook.comfavelaporno.comfavepornmovs.comfavepornvids.comfavjapaneseporn.com
 favstar.fmfawanghuihui.orgfaycbok.comfayuanbooks.comfaz.net
@@ -37908,7 +37910,7 @@ visa.co.ve
 visa.co.zavisa.comvisa.com.agvisa.com.aivisa.com.arvisa.com.auvisa.com.azvisa.com.bovisa.com.brvisa.com.bsvisa.com.bzvisa.com.covisa.com.cyvisa.com.dmvisa.com.dovisa.com.ecvisa.com.gevisa.com.gtvisa.com.gyvisa.com.hkvisa.com.hnvisa.com.hrvisa.com.jmvisa.com.khvisa.com.knvisa.com.kzvisa.com.lcvisa.com.lkvisa.com.msvisa.com.mxvisa.com.myvisa.com.ngvisa.com.pavisa.com.pevisa.com.phvisa.com.prvisa.com.pyvisa.com.ruvisa.com.sgvisa.com.svvisa.com.trvisa.com.ttvisa.com.twvisa.com.uavisa.com.uyvisa.com.vcvisa.com.vivisa.com.vnvisa.czvisa.devisa.dkvisa.esvisa.fivisa.frvisa.gdvisa.gpvisa.grvisa.hkvisa.huvisa.ievisa.isvisa.kyvisa.ltvisa.lvvisa.mnvisa.mqvisa.nlvisa.novisa.plvisa.ptvisa.rovisa.sevisa.skvisa.sovisa.sxvisa.tcvisabank.org
 visabg.comvisabusinessinsights.com
 visaca.comvisacarddesignlab.comvisacards.comvisacheckout.netvisacheckout.orgvisaconciergelac.comvisadigital.comvisadigitalconcierge.comvisadns.comvisadpsonline.usvisaeurope.atvisaeurope.chvisaeurope.luvisaeurope.sivisaeverywhereshop.comvisafintechfasttrack.comvisafulfillment.comvisagiftcard.usvisaglobalfinance.comvisaicsdirect.comvisainfinite.cavisainfiniteluxuryhotels.cavisaitalia.comvisakorea.com!visaluxuryhotelcollection.com$ visaluxuryhotelcollection.com.br$ visaluxuryhotelcollection.com.mxvisaluxuryhotels.comvisaluxuryhotels.com.arvisamiddleeast.comvisanet.netvisapcsdirect.comvisaplus.comvisasavingsedge.cavisasignature.co.krvisasignaturehotels.comvisasoutheasteurope.comvisb.orgvisceralgames.comvisiontimes.comvisiontimes.devisiontimes.frvisiontimes.itvisiontimes.netvisiontimesjp.comvisual-arts.jpvisualarts.gr.jpvisualstudio-staging.comvisualstudio.covisualstudio.co.ukvisualstudio.comvisualstudio.euvisualstudio.netvitukali.comviu.com
-viu.tvvivaldi.comvivaxnxx.comvivthomas.com	vixen.comvixengroup.com
+viu.tvvivaldi.comvivaxnxx.com	vivox.comvivthomas.com	vixen.comvixengroup.com
 vixvids.tovjav.comvjmedia.com.hkvk-apps.com
 vk-apps.ru	vk-cdn.me
 vk-cdn.netvk-portal.netvk-records.ruvk-stadium.ru	vk.cc
@@ -38224,7 +38226,7 @@ zzcloud.mezzdh.bizzzdh.cczzdh.pwzzdh.runzzdh.ws
 zzdh77.comzzdh808.com
 zzdh99.com
 zzgays.com
-zzycdz.com1password.drift.clicka4e8s8k3.map2.ssl.hwcdn.netadobeereg.comagb9r0ad.qllfkl.comangle.com.twapi-p.videomarket.jpbbs.boingboing.netbeck-online.beck.deblizzard.nefficient.co.krbybit.ada.supportcbsi.live.ott.irdeto.com%!cbsplaylistserver.aws.syncbak.comcbsservice.aws.syncbak.com+'cdn-spotify-experiments.conductrics.comcdn.js7k.comcisco.evergage.comcrl.versign.netdatabank.worldbank.org#datarouter.apps.netherrealm.comderibit.cdn.prismic.iodeutschewelle.h-cdn.comdl.begellhouse.comelib.maruzen.co.jpf3b7q2p3.ssl.hwcdn.netfaronics.kayako.comfirstsearch.oclc.orggithub-api.arkoselabs.com.*gitlab-assets.oss-cn-hongkong.aliyuncs.com'#gog-cdn-lumen.secure2.footprint.nethb4bbbbb.pmhcjk.comholoxx.f5.sihpstore.corpmerchandise.com&"http-intake.logs.us5.datadoghq.comhub.slarker.mei.jeded.comimperial.insendi.comlicdn.cn.cdn20.comlink.theplatform.com*&live-patreon-marketing.pantheonsite.iomedone-education.thieme.commuse.jhu.edunbbb1bb7.pmhcjk.comntp-c.colorado.eduntp.time.nlntp0.ntp-servers.netntp1.ntp-servers.netntp1.time.nlntp2.ntp-servers.netntp2.time.nlntp3.ntp-servers.netntp4.ntp-servers.netntp5.ntp-servers.netntp6.ntp-servers.netntp7.ntp-servers.netntppool1.time.nlntppool2.time.nlood.opsource.net.*p16-tiktok-dm-sticker-sign-sg.ibyteimg.com$ public-us-pingsx.api.clonoth.comq676790b.pmhcjk.comrink.hockeyapp.net$ roovza-launches.appsflyersdk.com"roovza.inapps.appsflyersdk.com$ roovza.launches.appsflyersdk.com#roovza.skadsdk.appsflyersdk.comrss.4040940.xyzrss.datuan.devrss.littlebaby.life
+zzycdz.com1password.drift.clicka4e8s8k3.map2.ssl.hwcdn.netadobeereg.comagb9r0ad.qllfkl.comangle.com.twapi-p.videomarket.jpbbs.boingboing.netbeck-online.beck.deblizzard.nefficient.co.krbybit.ada.supportcbsi.live.ott.irdeto.com%!cbsplaylistserver.aws.syncbak.comcbsservice.aws.syncbak.com+'cdn-spotify-experiments.conductrics.comcdn.js7k.comcisco.evergage.comcourses.myecnu.orgcrl.versign.netdatabank.worldbank.org#datarouter.apps.netherrealm.comderibit.cdn.prismic.iodeutschewelle.h-cdn.comdl.begellhouse.comelib.maruzen.co.jpf3b7q2p3.ssl.hwcdn.netfaronics.kayako.comfirstsearch.oclc.orggithub-api.arkoselabs.com.*gitlab-assets.oss-cn-hongkong.aliyuncs.com'#gog-cdn-lumen.secure2.footprint.nethb4bbbbb.pmhcjk.comholoxx.f5.sihpstore.corpmerchandise.com&"http-intake.logs.us5.datadoghq.comhub.slarker.mei.jeded.comimperial.insendi.comlicdn.cn.cdn20.comlink.theplatform.com*&live-patreon-marketing.pantheonsite.iomedone-education.thieme.commuse.jhu.edunbbb1bb7.pmhcjk.comntp-c.colorado.eduntp.time.nlntp0.ntp-servers.netntp1.ntp-servers.netntp1.time.nlntp2.ntp-servers.netntp2.time.nlntp3.ntp-servers.netntp4.ntp-servers.netntp5.ntp-servers.netntp6.ntp-servers.netntp7.ntp-servers.netntppool1.time.nlntppool2.time.nlood.opsource.net.*p16-tiktok-dm-sticker-sign-sg.ibyteimg.com$ public-us-pingsx.api.clonoth.comq676790b.pmhcjk.comrink.hockeyapp.net$ roovza-launches.appsflyersdk.com"roovza.inapps.appsflyersdk.com$ roovza.launches.appsflyersdk.com#roovza.skadsdk.appsflyersdk.comrss.4040940.xyzrss.datuan.devrss.littlebaby.life
 rss.owo.nzrss.wudifeixue.comrsshub.asailor.orgrsshub.email-once.comrsshub.henry.wangrsshub.isrss.comrsshub.ktachibana.partyrsshub.pseudoyu.comrsshub.rss.tipsrsshub.rssforever.comrsshub.umzzz.comrsshub.woodland.cafersshub2.asailor.orgscholar.google.cnEAstraitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.comsupercell.helpshift.com'#ubisoft.siteintercept.qualtrics.comut1-time.colorado.eduutcnist.colorado.eduutcnist2.colorado.eduutcnist3.colorado.edu vsmarketplacebadge.apphb.comwidgets.stripst.comwrds-www.wharton.upenn.eduws.audioscrobbler.comyangzhi.app($zftksc.cdn-settings.appsflyersdk.com$ zftksc.launches.appsflyersdk.com(^|\.)13mei[5-7]\.buzz$(^|\.)18j[efg]\.life$!(^|\.)18jmttios[0-9]{2}\.com$(^|\.)18tv[1-5]\.com$(^|\.)1[0-9]{2}\.one$1-(^|\.)2024(3[0-9]|4[0-9]|6[0-9]|7[0-9])\.xyz$(^|\.)3[0-9]{2}\.icu$(^|\.)3[0-9]{2}\.one$ (^|\.)69bag[0-1][1-9]?\.com$ (^|\.)783([a-z][a-z]?)?\.tv$"(^|\.)7mm0([0-1][0-9]?)?\.com$(^|\.)8dgo[1-57-9]\.com$'#(^|\.)91cg([1-9]|[0-9][1-9])?\.com$(^|\.)91p[0-9][0-9]?\.com$(^|\.)91porn[0-9]?\.store$(^|\.)91porn[0-9]{3}\.me$(^|\.)91porn[fvxy]\.com$D@(^|\.)91porn\.(best|com|cool|fun|group|party|plus|site|tw|work)$(^|\.)91porna[1-7]?\.com$(^|\.)91sew1[1-6]\.buzz$(^|\.)91wang[1-9]\.com$(^|\.)989[a-z]?\.tv$(^|\.)99pp[1-9][0-9]\.com$(^|\.)9cha[0-9]{2}\.cc$(^|\.)[1-5]gaoap\.com$!(^|\.)[1-9]+aipai\.(com|net)$!(^|\.)[1-9]+zipai\.(com|net)$(^|\.)[1-9]00caocao\.com$(^|\.)[3-9]0000sao\.com$-)(^|\.)[a-z]?fulibl\.(cc|com|org|net|xyz)$$ (^|\.)[a-z][1-9][0-9][a-z]\.com$:6(^|\.)aipa(111|222|333|444|555|666|777|888|999)\.life$"(^|\.)aisejushi(2|3|5|6)\.com$(^|\.)aiwei[1-9]{2}\.buzz$62(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$73(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$(^|\.)aqdk[0-9]{3}\.com$(^|\.)avcc1[0-9]\.com$!(^|\.)avstar0[1-9]\.(com|me)$(^|\.)awjd[1-9]?\.tv$(^|\.)awwcn[1-9]?\.top$(^|\.)banyinjia[0-9]?\.com$(^|\.)bhzyk[1-9]?\.xyz$(^|\.)bibeidh1[6-8]\.cc$($(^|\.)bilibili3(0[1-9]|1[0-2])\.xyz$(^|\.)bjini[0-9]{2}\.buzz$(^|\.)byy[0-9][0-9]?\.icu$HD(^|\.)byyum([3589]|2[235689]|3[34]|4[1-9]|5[1-79]|6[0134679])?\.com$#(^|\.)cav1(0[2-9]|1[0-9])\.com$%!(^|\.)cgbb([1-9]|1[0-9]|20)\.com$ (^|\.)chuzs[1-9]{0,2}\.buzz$(^|\.)cosaa[a-z]\.cyou$(^|\.)doufuru[0-9]?\.cc$ (^|\.)doufuru[0-9]{2}?\.xyz$(^|\.)douyintt[0-9]\.me$1-(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$40(^|\.)dualstack\.ichnaea-web-.+\.amazonaws\.com$(^|\.)fby[1-9]?[0-9]\.icu$(^|\.)fby[1-9]?[0-9]\.one$(^|\.)fi11sm([0-9]+)?\.com$(^|\.)fiftymvapi\..+$(^|\.)flsq[0-9]{2}\.com$!(^|\.)forduck[0-1][0-9]\.com$&"(^|\.)gaogediao\.(com|me|net|org)$$ (^|\.)gossipfuli[0-9]{3,4}\.xyz$(^|\.)guifw3[1-3]\.cc$(^|\.)h5ccav[1-5]\.com$(^|\.)hhmen[1-3]\.xyz$(^|\.)hkfg[1-7]\.xyz$(^|\.)hs[1-9]{2}\.vip$(^|\.)jav777\.(cc|tv|work)$(^|\.)javdb\d+\.com$(^|\.)jb[1-9][0-9]\.lol$"(^|\.)jbk0([0-1][0-9]?)?\.com$(^|\.)jdyy[1-9]?\.me$(^|\.)jiuse[0-9]{1,3}\.com$"(^|\.)jmtt\.(app|live|tv|vip)$(^|\.)jstv[0-9]{2}\.com$(^|\.)kdfl[0-9]{2}\.xyz$$ (^|\.)kimoav([1-9][0-9]?)?\.com$*&(^|\.)kpkuang\.(bond|fun|info|one|us)$(^|\.)ksyp0[1-9]\.com$(^|\.)lianren[1-7]\.cc$(^|\.)llyysp[0-9]{4}\.top$+'(^|\.)loibus(100|101|202|505|606)\.top$ (^|\.)loibus\.(cc|com|link)$%!(^|\.)luchuxue([0-9]{0,5})\.buzz$(^|\.)maa18[0-2][0-9]\.com$(^|\.)madouqu[0-9]{2}\.cc$(^|\.)mdyy[0-1][0-9]\.com$(^|\.)mdyy[0-9][0-9]\.cc$(^|\.)mimi[0-9]{3}\.com$($(^|\.)mimi\.(cfd|lol|onl|sbs|so|vc)$(^|\.)mitao[1-3]\.tv$(^|\.)mmtv[1-5]\.life$40(^|\.)mmwz\.(fun|in|la|me|one|pro|pw|run|tv|ws)$$ (^|\.)momotk([1-9][0-9]?)?\.uno$(^|\.)nnbw[0-2]\.xyz$%!(^|\.)putaozy([1-9][0-9]?)?\.com$(^|\.)qqbs([0-9]{2})?\.vip$(^|\.)qqsp0[1-3]\.com$(^|\.)rbp[1-9][0-9]\.com$(^|\.)rbyh[1-9]\.buzz$*&(^|\.)rule34\.(asia|us|world|xxx|xyz)$(^|\.)sao[1-6]0000\.com$(^|\.)sbyjs2[6-9]\.buzz$(^|\.)sg11[3-9]\.me$(^|\.)shdd[0-9]{2}\.buzz$$ (^|\.)shuangmawei[0-9]{2}\.buzz$(^|\.)smgsp[0-2]?\.buzz$(^|\.)spankwire[1-9]\.com$(^|\.)ssphb[0-9]{2}\.xyz$ (^|\.)supxxx[0-9]{0,2}\.com$(^|\.)sycf[0-9]?\.xyz$(^|\.)syjc1[1-6]\.xyz$'#(^|\.)tianbiav([1-9]|1[0-6])?\.com$(^|\.)tqav[1-9][0-9]\.com$(^|\.)tt[1-2][0-9]\.tv$(^|\.)ttghg[1-9][0-9]\.xyz$%!(^|\.)tttv([1-9][0-9]?|100)\.com$(^|\.)twav[1-9]\.xyz$#(^|\.)twseb([1-9][0-9]?)?\.com$"(^|\.)uu[a-z][1-9][0-9]?\.com$(^|\.)whtdh0[1-3]\.cc$(^|\.)wmm33[0-5]\.com$(^|\.)wyfuli[1-9]\.net$(^|\.)xaa[0-9]?\.one$(^|\.)xaxy[0-9]{2}\.one$(^|\.)xg[0-9]{2}\.vip$(^|\.)xgyy([0-9]{2})?\.vip$!(^|\.)xingdh([0-9]{3})?\.xyz$(^|\.)xlywz[1-9]?\.cc$(^|\.)xomfsp[1-9]?\.buzz$(^|\.)xv[0-9]{4}\.top$ (^|\.)xxxyaom[0-9]{2}\.buzz$(^|\.)yiren[1-9][0-9]\.com$(^|\.)youyuapi\..+$(^|\.)yrrj[1-9]?\.buzz$(^|\.)yygc[0-9]?\.xyz$!(^|\.)zayy([0-9]{0,3})?\.xyz$(^|\.)zh9[0-7]\.net$(^|\.)zy[0-9]{4}\.top$(^|\.)zztt[1-6][0-9]\.com$(^|\.)zzz[1-9][0-9]\.top$0,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$)%.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$($^[0-9]+vod-adaptive\.akamaized\.net$=9^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$*&^epicgames-download\d\.akamaized\.net$^ewcdn[0-9]+\.nowe\.com$ ^hses[1-7]?\.akamaized\.net$
 ¹è
 GEOLOCATION-CN0033.cn	00cdn.com0123456789.com0379home.com
@@ -42737,8 +42739,9 @@ wiifit.comwiifitu.comwiipartyu.comwiisports.comwiisports
 cnxn--mts47c3w9b1qr.netyoshisnewisland.com
 "
 NISTnist.govtime.gov
-ã
-NIXOSbuiltwithnix.orgmynixos.comnix-community.orgnix.dev	nix.store
+ó
+NIXOSbuiltwithnix.org
+cachix.orgmynixos.comnix-community.orgnix.dev	nix.store
 nixcon.orgnixcon2017.orgnixlang.com	nixos.org
 nixos.wikinixpkgs.orgnix-community.github.io
 
@@ -45016,7 +45019,7 @@ F
 ™
 UNIONPAY	95516.com	95516.netchinapay.comchinaums.comchinaunionpay.comchinaunionpay.com.cnchinaunionpay.net
 cup.com.cncup62.cnunionpay.comunionpay.netunionpayintl.cnunionpayintl.comunionpaysecure.com
-’
+¡
 UNITY7analytics.cloud.unity3d.com
 ads
 	telemetry"cdp.cloud.unity3d.com
@@ -45028,7 +45031,7 @@ cup.com.cncup62.cnunionpay.comunionpay.netunionpayintl.c
 ads
 	telemetry0#prd-lender.cdp.internal.unity3d.com
 ads	unity.comunity3d.com!unityads.unity3d.com
-ads
+ads	vivox.com
 €
 
 UNITYCHINAads.unitychina.cn
